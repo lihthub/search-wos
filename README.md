@@ -2,6 +2,6 @@
 
 ![ScreenShot](res/screenshot/search-result.png)
 
-由于 [Web of Science](http://www.isiknowledge.com) 网站要通过漫游功能登录，必须最近曾于所在相关机构处进行过登录，而我写完这个程序已经有很长一段时间了，当时测试也是我那个同学给我的权限，所以下图中展示的内容只是虚拟的测试数据并非网站上检索的内容。
+由于 [Web of Science](http://www.isiknowledge.com) 网站要通过漫游功能登录，必须最近曾于所在相关机构处进行过登录，而我写完这个程序已经有很长一段时间了，当时测试也是我那个同学给我的权限，所以下图中展示的内容只是模拟的测试数据并非网站上检索的内容。
 
 ![ScreenShot](res/screenshot/search-matched.png)
